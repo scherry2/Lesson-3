@@ -13,9 +13,9 @@ its always sunny in NY
 ---
 **This should be in bold**
 ---
-''' python
+``` python
 print("hello world")
-'''
+```
 "... given quote."
 
 
@@ -26,5 +26,5 @@ print("hello world")
 [references](references)
 [images](images)
 
-![markdown](LebronJames.jpeg)
+![markdown-image](LebronJames.jpeg)
 
