@@ -25,4 +25,6 @@ print("hello world")
 [data](data)
 [references](references)
 [images](images)
-![markdown] (Lebron James.jpeg)
+
+![markdown](LebronJames.jpeg)
+
